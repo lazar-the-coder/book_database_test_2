@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Book_Database", "Book_Database.pyproj", "{5785D4A4-A429-4A8C-BAE1-16CEBEE5D6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5785D4A4-A429-4A8C-BAE1-16CEBEE5D6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5785D4A4-A429-4A8C-BAE1-16CEBEE5D6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78FC81FA-DD25-4726-91B7-738FD09A2F96}
+	EndGlobalSection
+EndGlobal
